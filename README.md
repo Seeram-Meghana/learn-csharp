@@ -17,7 +17,7 @@ I am learning csharp from different videos courses, books and websites
 
 `dotnet workload install`
 
-`dotnet workfloe update`
+`dotnet workflow update`
 
 `dotnet new console`
 
