@@ -1,27 +1,30 @@
 # learn-csharp
 I am learning csharp from different videos courses, books and websites
 
-`dotnet`
+```poweshell
 
-`dotnet --info`
+dotnet
 
-`dotnet new`
+dotnet --info
 
-`dotnet --help`
+dotnet new
 
-`dotnet new --help`
+dotnet --help
 
-`dotnet new list`
+dotnet new --help
 
-`dotnet workload list`
+dotnet new list
 
-`dotnet workload install`
+dotnet workload list
 
-`dotnet workflow update`
+dotnet workload install
 
-`dotnet new console`
+dotnet workflow update
 
-`dotnet run`
+dotnet new console
 
+dotnet run
+
+```
 
 
