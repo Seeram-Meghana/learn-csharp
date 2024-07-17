@@ -8,10 +8,10 @@ dotnet --list-runtimes
 dotnet --version
 
 dotnet new console --output HelloCS
-dotnet new console --use-program-main --output HelloCSV1
+dotnet new console --use-program-main --output HelloEnvironment --dryrun-run
 
 dotnet sln add .\HelloCS\HelloCS.csproj
-dotnet sln add .\HelloCSV1\HelloCSV1.csproj
+dotnet sln add .\HelloEnvironment\HelloEnvironment.csproj
 
 dotnet
 
