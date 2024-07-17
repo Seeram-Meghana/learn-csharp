@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstsample", "firstsample\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCS", "HelloCS\HelloCS.csproj", "{168AF42D-DBA3-4582-9075-B3E193E9ADA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloEnvironment", "HelloEnvironment\HelloEnvironment.csproj", "{22D6B162-9B7F-448B-A606-447774C5E626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{168AF42D-DBA3-4582-9075-B3E193E9ADA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{168AF42D-DBA3-4582-9075-B3E193E9ADA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{168AF42D-DBA3-4582-9075-B3E193E9ADA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D6B162-9B7F-448B-A606-447774C5E626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D6B162-9B7F-448B-A606-447774C5E626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D6B162-9B7F-448B-A606-447774C5E626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D6B162-9B7F-448B-A606-447774C5E626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
