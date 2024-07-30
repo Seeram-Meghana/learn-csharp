@@ -33,6 +33,12 @@ dotnet workflow update
 
 dotnet new console
 
+dotnet clean
+
+dotnet restore
+
+dotnet build
+
 dotnet run
 
 ```
