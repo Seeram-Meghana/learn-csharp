@@ -33,8 +33,6 @@ dotnet workflow update
 
 dotnet new console
 
-dotnet run
-
 dotnet clean
 
 dotnet restore
