@@ -13,7 +13,7 @@ dotnet new console --use-program-main --output HelloEnvironment --dryrun-run
 dotnet sln add .\HelloCS\HelloCS.csproj
 dotnet sln add .\HelloEnvironment\HelloEnvironment.csproj
 
-dotnet
+dotnet new sln -n
 
 dotnet --info
 
