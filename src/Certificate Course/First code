@@ -1,0 +1,4 @@
+Console.Write(" Hello world!");
+
+Console.Write("First");
+Console.Write("Code.");
