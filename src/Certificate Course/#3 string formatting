@@ -17,3 +17,11 @@ Console.Write("\n\n\u65e5\u672c\u306e\u8acb\u6c42\u66f8\u3092\u751f\u6210\u3059\
 // User command to run an application
 Console.WriteLine(@"c:\invoices\app.exe -j");
 
+#2
+string name = "ACME";
+string EnglsihLocation =  $@"c:\Exercise\{name}\data.txt";
+Console.WriteLine($"View English output:\n\t\t{EnglsihLocation}\n");
+
+string projectname = "AACM";
+string RussianLocation = $@"c:\Exercise\{projectname}\data.txt";
+Console.WriteLine($"Viewing russian output: \n\t\t{RussianLocation}\n");
