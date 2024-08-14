@@ -1,0 +1,55 @@
+int sum = 2 + 4;
+int difference = 2 - 4;
+int product = 2 * 4;
+int quotient = 2 / 4;
+
+Console.WriteLine("Sum: " + sum);
+Console.WriteLine("Difference: " + difference);
+Console.WriteLine("Product: " + product);
+Console.WriteLine("Quotient: " + quotient);
+
+decimal number = 1.2m / 5;
+Console.WriteLine($"decimal number: {number} ");
+
+int first = 2;
+int second = 4;
+decimal number = (decimal)first / (decimal)second;
+Console.WriteLine(first + second + number);
+
+Console.WriteLine($"modulus of 200 / 5 : {200 % 5}");
+Console.WriteLine($"modulus of 7 / 5 : {7 / 5}");
+
+int value1 = 2 + 4 * 6;
+Console.WriteLine(value1);
+
+int value2 = 7 + 2 * 4;
+Console.WriteLine(value2);
+
+int value3 = (2 + 4) * 6;
+Console.WriteLine(value3);
+
+int value = 5;
+value = value + 1;
+Console.WriteLine("first: " + value);
+
+value += 1;
+Console.WriteLine("second: " + value);
+
+value ++; 
+Console.WriteLine("third: " + value);
+
+value = value - 1;
+Console.WriteLine("first:" + value);
+
+value-= 1;
+Console.WriteLine("second: " + value);
+
+value--; 
+Console.WriteLine("third: " + value);
+
+int value = 2;
+value++;
+Console.WriteLine("first: " + value);
+Console.WriteLine($"second: {value++}");
+Console.WriteLine("third: " + value);
+Console.WriteLine("fourth: " + (++value));
